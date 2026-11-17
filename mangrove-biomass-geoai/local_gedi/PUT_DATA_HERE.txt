@@ -1,0 +1,1 @@
+Optional: locally downloaded GEDI L4A V3 .h5 granules. The app also offers an Earthdata search/download flow. Do not commit granules.

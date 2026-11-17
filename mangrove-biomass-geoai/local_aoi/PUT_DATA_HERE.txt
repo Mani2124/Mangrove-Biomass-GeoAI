@@ -1,0 +1,1 @@
+Place your study area .geojson/.json or a ZIP containing .shp .shx .dbf .prj here. Upload through Explore & draw, then Save AOI and POIs.

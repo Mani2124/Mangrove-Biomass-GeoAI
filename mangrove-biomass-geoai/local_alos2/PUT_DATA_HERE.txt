@@ -1,0 +1,1 @@
+Place extracted JAXA ALOS-2 PALSAR-2 annual mosaic HH/HV GeoTIFF tiles here. Preserve original filenames. Do not commit imagery.

@@ -1,0 +1,17 @@
+streamlit
+streamlit-folium
+folium
+geopandas
+numpy
+pandas
+rasterio
+requests
+python-dotenv
+scipy
+shapely
+pyproj
+scikit-learn
+joblib
+matplotlib
+h5py
+gunicorn
